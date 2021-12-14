@@ -4,7 +4,7 @@ Example app built from ['Ruby on Rails' tutorial by Michael Hartl](https://www.r
 ## Progress
 - [x] Chapter 1: From zero to deploy
 - [x] Chapter 2: A toy app
-- [ ] Chapter 3: Mostly static pages
+- [x] Chapter 3: Mostly static pages
 - [ ] Chapter 4: Rails-flavored Ruby
 - [ ] Chapter 5: Filling in the layout
 - [ ] Chapter 6: Modeling users
